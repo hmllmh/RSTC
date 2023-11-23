@@ -2,6 +2,7 @@
 This repository contains the code for our paper "Robust Representation Learning with Reliable Pseudo-labels Generation via Self-Adaptive Optimal Transport for Short Text Clustering" (ACL 2023).
 
 We achieve our code based on SCCL https://github.com/amazon-science/sccl
+the environment please refer to SCCL
 
 If you use our code, please cite the paper:
 @article{zheng2023robust,
